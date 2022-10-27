@@ -2,7 +2,7 @@
 
 En este código presento un programa el cual manda alerta por medio de Telegram cuando los sensores se encuentran inactivos, lo unico que hay que realizar es colocar la SSID, el PASS de la red a la cual se debe conectar, los TOKEN y los ID a quienes se va a notificar
 
-```
+```ruby
 //bibliotecas para ESP8266
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
